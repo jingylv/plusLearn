@@ -1,1 +1,1 @@
-include ':app', ':06-drawing'
+include ':app', ':06-drawing', ':28_annotaion', ':28_lib_reflection', ':03_retrofit_okhttp', ':07_change_camera_animation'
